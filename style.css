@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-link{
+    color: white!important;
+}
+.navbar-brand{
+    color: white!important;
+}
+.nav-link:hover{
+    color: rgb(34, 170, 26)!important;
+}
+h1{
+    background-color: rgb(0, 217, 255);
+    background-image: url("headding.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:burlywood;
+}
+.card-img-top{
+          height: 300px;
+          width: 50px;
+}
+.section
+{
+    padding: 60%;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.bg-image{
+    background-image: url("kovvada\ young\ stars\ logo.png");
+}
+.header{
+    color: white;
+}
+.background{
+    background-image:url("kovvada\ young\ stars\ logo.png") ;
+    background-size: contain;
+    
+}
+.contact{
+    color:rgb(0, 179, 255);
+}
